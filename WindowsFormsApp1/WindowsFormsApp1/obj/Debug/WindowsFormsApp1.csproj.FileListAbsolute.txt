@@ -1,0 +1,20 @@
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\07.01 31.01.24\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\07.01 31.01.24\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\07.01 31.01.24\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\07.01 31.01.24\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\07.01 31.01.24\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\07.01 31.01.24\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\07.01 31.01.24\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\07.01 31.01.24\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\07.01 31.01.24\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Личные данные не системные\документы, заметки\доки\учёба\МДК 07.01\07.01 31.01.24\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\GitLesson\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\GitLesson\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\GitLesson\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\GitLesson\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\GitLesson\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\GitLesson\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\GitLesson\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\GitLesson\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\GitLesson\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\GitLesson\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
